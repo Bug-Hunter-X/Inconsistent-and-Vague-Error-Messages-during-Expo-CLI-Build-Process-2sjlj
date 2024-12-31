@@ -1,0 +1,1 @@
+This bug occurs when using the Expo CLI to manage an Expo project.  The error message is vague, often only indicating a general failure or a problem with the build process. The underlying cause can be difficult to track down because the error log does not contain specific file names or line numbers.
